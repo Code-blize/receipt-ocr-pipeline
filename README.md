@@ -19,6 +19,12 @@ thresholding), and then uses EasyOCR to extract text and regex rules to
 parse out structured fields.
 
 **Output:** A CSV file with one row per receipt containing extracted fields.
+<img width="455" height="658" alt="image" src="https://github.com/user-attachments/assets/3c6a9d2c-955c-49a1-8d22-36e431d8e273" />
+
+
+<img width="564" height="790" alt="image" src="https://github.com/user-attachments/assets/8b911ee2-f3f2-4c22-8c75-4968ca0af7a0" />
+
+<img width="1082" height="424" alt="image" src="https://github.com/user-attachments/assets/08d8ad61-476b-4785-90f9-6ec6ce8ca69d" />
 
 ---
 
