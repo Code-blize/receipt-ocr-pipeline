@@ -99,14 +99,14 @@ jupyter notebook Computer_Vision_Project_1.ipynb
 
 ---
 
-## 👤 Author
+##  Author
 
-**Blessing Obasi-Uzoma**
-- GitHub: [@YOUR_USERNAME](https://github.com/Code-blize)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/blessingobasiuzoma)
+**Obasi-Uzoma Blessing**
+- GitHub: [@Code-blize](https://github.com/Code-blize)
+- LinkedIn: [blessingobasiuzoma](https://linkedin.com/in/blessingobasiuzoma)
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
