@@ -1,0 +1,9 @@
+opencv-python
+easyocr
+pytesseract
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+kagglehub
