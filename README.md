@@ -116,3 +116,162 @@ jupyter notebook Computer_Vision_Project_1.ipynb
 ##  License
 
 This project is licensed under the MIT License.
+
+ 
+  
+    
+
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+
+
+  
+    
+      
+      merchant
+      date
+      total
+      total_line
+      date_line
+      image
+    
+  
+  
+    
+      0
+      HENG KEE DEIISHTS BAK KTJT TEH
+      04/01/2018
+      42.0
+      Total: RM 42.00
+      DATE: 04/01/2018 7 : 42:10 AM
+      X51005719889.jpg
+    
+    
+      1
+      MEDAN NIAGA TASIK DAMAI
+      14/02/2018
+      45.0
+      Total Includes GST 0% 1,45
+      14/02/2018 5.37:44PM
+      X51005447859.jpg
+    
+    
+      2
+      4Z100 KLANG SELANGOR
+      None
+      NaN
+      None
+      None
+      X51006619863.jpg
+    
+    
+      3
+      SECURITY & OATRADING
+      None
+      NaN
+      None
+      None
+      X51006619784.jpg
+    
+    
+      4
+      42100 KLANG SELANGOR
+      None
+      NaN
+      None
+      None
+      X51006733495.jpg
+    
+  
+
+
+    
+
+  
+    
+
+  
+    
+  
+    
+
+  
+    .colab-df-container {
+      display:flex;
+      gap: 12px;
+    }
+
+    .colab-df-convert {
+      background-color: #E8F0FE;
+      border: none;
+      border-radius: 50%;
+      cursor: pointer;
+      display: none;
+      fill: #1967D2;
+      height: 32px;
+      padding: 0 0 0 0;
+      width: 32px;
+    }
+
+    .colab-df-convert:hover {
+      background-color: #E2EBFA;
+      box-shadow: 0px 1px 2px rgba(60, 64, 67, 0.3), 0px 1px 3px 1px rgba(60, 64, 67, 0.15);
+      fill: #174EA6;
+    }
+
+    .colab-df-buttons div {
+      margin-bottom: 4px;
+    }
+
+    [theme=dark] .colab-df-convert {
+      background-color: #3B4455;
+      fill: #D2E3FC;
+    }
+
+    [theme=dark] .colab-df-convert:hover {
+      background-color: #434B5C;
+      box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15);
+      filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.3));
+      fill: #FFFFFF;
+    }
+  
+
+    
+      const buttonEl =
+        document.querySelector('#df-0435217b-d996-4cfd-be1a-48a7c123b77e button.colab-df-convert');
+      buttonEl.style.display =
+        google.colab.kernel.accessAllowed ? 'block' : 'none';
+
+      async function convertToInteractive(key) {
+        const element = document.querySelector('#df-0435217b-d996-4cfd-be1a-48a7c123b77e');
+        const dataTable =
+          await google.colab.kernel.invokeFunction('convertToInteractive',
+                                                    [key], {});
+        if (!dataTable) return;
+
+        const docLinkHtml = 'Like what you see? Visit the ' +
+          '<a target="_blank" href=https://colab.research.google.com/notebooks/data_table.ipynb>data table notebook</a>'
+          + ' to learn more about interactive tables.';
+        element.innerHTML = '';
+        dataTable['output_type'] = 'display_data';
+        await google.colab.output.renderOutput(dataTable, element);
+        const docLink = document.createElement('div');
+        docLink.innerHTML = docLinkHtml;
+        element.appendChild(docLink);
+      }
+    
+  
+
+
+    
+  
+
