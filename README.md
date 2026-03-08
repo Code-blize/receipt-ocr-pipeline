@@ -90,6 +90,7 @@ jupyter notebook Computer_Vision_Project_1.ipynb
 | X51006733495.jpg | 42100 KLANG SELANGOR          | None       | NaN   |
 
 <img width="1082" height="424" alt="image" src="https://github.com/user-attachments/assets/08d8ad61-476b-4785-90f9-6ec6ce8ca69d" /> 
+
 ---
 
 ##  What I Learned
